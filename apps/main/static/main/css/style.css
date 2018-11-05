@@ -1,0 +1,14 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.container{
+  width: 1000px;
+  height: auto;
+}
+a{
+  text-decoration: underline;
+}
+form{
+  margin-bottom: 10px;
+}
